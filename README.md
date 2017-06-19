@@ -1,7 +1,9 @@
 # README
 
-* Build and Install Guide
-  https://online.pragmaticstudio.com/tour/courses/rails/steps/4
+### My solution to a complete rails fundamental training that I did for practice.
+
+* Link to training guide
+  (https://online.pragmaticstudio.com/tour/courses/rails/steps/4)
 
 * Ruby version
   2.3.1p112
