@@ -1,13 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+* Build and Install Guide
+  https://online.pragmaticstudio.com/tour/courses/rails/steps/4
 
 * Ruby version
-
-* System dependencies
+  2.3.1p112
 
 * Configuration
 
@@ -20,5 +17,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
